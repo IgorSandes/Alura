@@ -1,9 +1,9 @@
 # Projetos Alura
 
 
-## Integrantes
+## Guia
  | NOME DO PROJETO                                   |Funcionalidade         |
  |---------------------------------------------------|-----------------------|
- | logica-js-projeto_inicial                         |Jogo de número da sorte|
+ | jogo-numero-secreto                   |Jogo de número da sorte|
 
 
