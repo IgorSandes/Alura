@@ -1,0 +1,27 @@
+.whats {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    background-color: rgba(0, 128, 0, 0.13);
+    border-radius: 100%;
+}
+.whats:hover{
+    filter: brightness(120%);
+}
+.divs-facilidades{
+    margin-inline: 30px;
+}
+.divs-facilidades a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+}
+#navbarSupportedContent{
+    margin-inline: 3rem;
+}
+footer p{
+    margin-bottom: 0;
+}
