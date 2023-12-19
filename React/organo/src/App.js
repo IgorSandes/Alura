@@ -1,4 +1,6 @@
-import Banner from './componentes/Banner/Banner';
+import Banner from './componentes/Banner';
+import Formulario from './componentes/Formulario';
+
 
 function App() {
   return (
@@ -6,6 +8,9 @@ function App() {
       <header className="banner">
         <Banner />
       </header>
+      <main>
+        <Formulario />
+      </main>
     </div>
   );
 }
