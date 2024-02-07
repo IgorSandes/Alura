@@ -1,8 +1,9 @@
-.formulario{
+.formulario {
     display: flex;
     justify-content: center;
     margin: 80px 0;
 }
+
 .formulario form {
     max-width: 80%;
     background-color: #F2F2F2;
